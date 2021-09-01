@@ -11,7 +11,7 @@ export default () => {
   return (
     <div>
       <BrowserRouter>
-      <StylesProvider class = {generateclassname}>
+      <StylesProvider generateClassName = {generateclassname}>
       <h1></h1>
       <hr />
       <Header />

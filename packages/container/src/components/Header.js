@@ -63,7 +63,6 @@ export default function Header({ isSignedIn, onSignOut }) {
     }
   };
 
-
   return (
     <React.Fragment>
       <AppBar
